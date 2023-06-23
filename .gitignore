@@ -1,0 +1,5 @@
+*.pyc
+.DS_Store
+digitalsys_api/.DS_Store
+digitalsys_web/.DS_Store
+digitalsys_web/node_modules

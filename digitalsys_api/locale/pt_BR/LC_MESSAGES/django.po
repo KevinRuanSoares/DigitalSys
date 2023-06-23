@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-23 03:31-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: proposal/admin.py:24
+msgid "Proposal Identifier"
+msgstr "Identificador da Proposta"
+
+#: proposal/models.py:6
+msgid "Approved"
+msgstr "Aprovada"
+
+#: proposal/models.py:7
+msgid "Denied"
+msgstr "Negada"
+
+#: proposal/models.py:8
+msgid "Pending"
+msgstr "Pendente"
+
+#: proposal/models.py:12
+msgid "Number"
+msgstr "Numérico"
+
+#: proposal/models.py:13
+msgid "Text"
+msgstr "Texto"
+
+#: proposal/models.py:14
+msgid "Date"
+msgstr "Data"
+
+#: proposal/models.py:22
+msgid "Proposal"
+msgstr "Proposta"
+
+#: proposal/models.py:23
+msgid "Proposals"
+msgstr "Propostas"
+
+#: proposal/models.py:27
+msgid "Name"
+msgstr "Nome"
+
+#: proposal/models.py:28
+msgid "Required"
+msgstr "Obrigatório"
+
+#: proposal/models.py:29
+msgid "Field Type"
+msgstr "Tipo de Campo"
+
+#: proposal/models.py:30
+msgid "Order"
+msgstr "Ordem"
+
+#: proposal/models.py:34
+msgid "Proposal Field"
+msgstr "Campos de Proposta"
+
+#: proposal/models.py:35
+msgid "Proposal Fields"
+msgstr "Campos de Propostas"
+
+#: utils/models.py:6
+msgid "Unique Id"
+msgstr "Unique Id"
+
+#: utils/models.py:7
+msgid "Creation Date"
+msgstr "Data de Criação"
+
+#: utils/models.py:8
+msgid "Update Date"
+msgstr "Data de Atualização"

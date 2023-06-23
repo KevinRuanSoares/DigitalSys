@@ -1,0 +1,33 @@
+[
+    {
+      "model": "user.User",
+      "pk": "59f7e3e900264ba890e3a1825c41ba16",
+      "fields": {
+        "nickname": "KevinRuanSoares",
+        "password": "pbkdf2_sha256$260000$rQ90ZCYoCDP7EFHeJZmXjz$pYd8Y5HGA8DfUL7lkJc/26rGNwMgo3kXi5dSLelI3SQ=",
+        "last_login": null,
+        "date_created": "2023-06-22 21:46:33.334948",
+        "date_updated": "2023-06-22 21:46:33.334948",
+        "deleted": false,
+        "active": true,
+        "profile": "ADMIN"
+      }
+    },
+    {
+      "model": "user.User",
+      "pk": "9d0f10e5544f4390a46d9d246a6a37bb",
+      "fields": {
+        "nickname": "Admin",
+        "password": "pbkdf2_sha256$260000$osmwws6kr1SOG2sRvZWKGl$2Hr2ZPLXKuuiU15dynygWeM8zGdL6wGXlXsiEgIPOMI=",
+        "last_login": null,
+        "date_created": "2023-06-22 21:46:33.334948",
+        "date_updated": "2023-06-22 21:46:33.334948",
+        "deleted": false,
+        "active": true,
+        "profile": "ADMIN"
+      }
+    }
+  ]
+  
+
+
